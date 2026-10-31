@@ -5,7 +5,7 @@
 | Version | 1.0 (draft for sponsor approval) |
 | Date | 2026-09-29 |
 | Sponsor | Head of the IT department |
-| PM | TODO name, supervising lecturer |
+| PM | Mr. Tongsreng, supervising lecturer |
 
 ## 1. Purpose and justification
 Lecturers in the department mark quizzes by hand, about 300 hours per year in total, and students only see their results days later. The Realtime Quiz platform lets an instructor author multiple-choice quizzes and run live, timed sessions where students join with a 6-character code and see their score and a leaderboard at once. The benefit is saved marking time, instant feedback and student data that stays on the department's own server. The comparison of doing nothing, buying a quiz service or building it, with a payback of about 1.1 years for building, is in [business-case.md](business-case.md).
