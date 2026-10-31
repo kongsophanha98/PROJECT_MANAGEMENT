@@ -1,0 +1,12 @@
+id,name_or_group,role,category,interest,influence,interest_level,expectation
+S01,Head of the IT department,Sponsor,sponsor,a reusable quiz tool that saves marking time and shows the department innovates,H,H,An MVP demo in week 7 and a pilot with 50 students in week 14 within the 200 USD cash cap.
+S02,Supervising lecturer,Project manager (supervising lecturer),pm,a delivered project and a team that learns the full delivery cycle,H,H,A signed charter in week 1 and a sponsor who attends the week-7 and week-13 gates.
+S03,Student team (4),Developers and testers,team,a working product and a fair grade for their effort,M,H,A clear scope and a stable 14-week plan with decisions made on time by the PM.
+S04,Pilot students (50),End users,user,a quiz that is fast and works on their phones,L,M,A live session in week 14 where they join with a code and see their score instantly.
+S05,Lecturers who run quizzes,End users (instructors),user,less marking time and easy quiz creation,M,H,A quiz editor and a session screen they can use after one short guide.
+S06,IT operations (VPS admin),Runs gicitc.com hosting and backups,operations,no surprises at go-live and a service that is easy to restore,M,M,A runbook and a backup job plus the production Docker Compose file two weeks before the pilot.
+S07,Campus network administrator,Controls the campus proxy and firewall,operations,a stable network with no unexpected traffic,M,L,A short description of the WebSocket traffic and a test slot before the pilot.
+S08,Software Engineering lecturer,Owns the capstone and its grading,governance,a project that meets capstone learning outcomes,M,L,Documents and code that follow the capstone standards by the week-7 and week-14 reviews.
+S09,Data protection officer,Approves storage of student data,governance,student names and results stored on campus with a retention rule,H,L,A one-page data description before the pilot; can block the pilot.
+S10,Dean or faculty management,Decides on adoption next semester,governance,a tool the faculty can reuse at no per-seat cost,H,L,A pilot report with results and costs after week 14.
+S11,Quiz SaaS vendor,Competing supplier (option B),external,selling licences to the department,L,L,A fair comparison in the business case if option B stays open.
